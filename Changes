@@ -1,0 +1,5 @@
+Revision history for Samba-Smbstatus
+
+0.01    Date/time
+        Created module framework.  Extracting from existing codebase.
+

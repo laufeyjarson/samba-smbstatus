@@ -17,3 +17,7 @@ nytprof.out
 /pm_to_blib
 *.o
 *.bs
+*.komodoproject
+MANIFEST.SKIP
+MANIFEST
+
