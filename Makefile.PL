@@ -37,6 +37,4 @@ requires_external_bin 'smbstatus';
 install_as_cpan;
 auto_install;
 
-manifest_skip;
-
 WriteAll;
