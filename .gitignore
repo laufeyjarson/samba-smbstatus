@@ -18,6 +18,5 @@ nytprof.out
 *.o
 *.bs
 *.komodoproject
-MANIFEST.SKIP
 MANIFEST
 
