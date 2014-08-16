@@ -12,11 +12,11 @@ Samba::Smbstatus - Read active Samba server data from smbstatus
 
 =head1 VERSION
 
-Version 0.00_01
+Version 0.01
 
 =cut
 
-our $VERSION = '0.00_01';
+our $VERSION = '0.01';
 
 =head1 SYNOPSIS
 
