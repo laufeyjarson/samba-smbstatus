@@ -1,5 +1,5 @@
 Revision history for Samba-Smbstatus
 
-0.01    Date/time
+0.00_01 10Aug2014 7:00pm
         Created module framework.  Extracting from existing codebase.
 
