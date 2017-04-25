@@ -178,7 +178,7 @@ sub _build__all_data {
             \s+
             ([\w+]+) # Oplock
             \s+
-            ([\w\/\d_-]+) # Share
+            ([\w\/\d_.-]+) # Share
             \s+
             (.*) # Name
             \s+
